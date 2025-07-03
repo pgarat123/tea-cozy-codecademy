@@ -33,7 +33,19 @@ header img {
 header li {
     display: inline;
     margin: 15px;
+}
+
+header a {
     text-decoration: underline;
+    color: seashell;
+}
+
+header a:hover {
+    text-decoration: none;
+}
+
+a:visited {
+    color: seashell;
 }
 
 .mission {
