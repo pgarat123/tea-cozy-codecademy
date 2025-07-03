@@ -44,10 +44,6 @@ header a:hover {
     text-decoration: none;
 }
 
-a:visited {
-    color: seashell;
-}
-
 .mission {
     height: 700px;
     width: 1200px;
