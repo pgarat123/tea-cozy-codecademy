@@ -22,6 +22,8 @@ header {
     padding: 10px 10px;
     border-bottom: 1px solid seashell;
     align-items: center;
+    background-color: black;
+    z-index: 1000;
 }
 
 header img {
