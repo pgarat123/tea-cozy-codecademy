@@ -144,7 +144,7 @@ ul h4 {
 }
 
 .contact ul {
-    margin: 0 auto 50px;
+    margin: 0 auto 20px;
     height: 200px;
     display: flex;
     flex-direction: column;
@@ -155,4 +155,9 @@ ul h4 {
 .contact h2 {
     margin-top: 0;
     margin-bottom: 10px;
+}
+
+h6 {
+    font-weight: normal;
+    margin: 0 auto;
 }
